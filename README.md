@@ -1,3 +1,3 @@
 ## Quick pick
 
-<img src="" />
+<img src="./project.png" />
